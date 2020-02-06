@@ -12,6 +12,7 @@ The six csv I imported include:
 -Salaries
 -Department Employees 
 
+I then imported each of these files into their own SQL databse and queried to answer questions. 
 
 # Data Analysis
 Listed the following details of each employee: employee number, last name, first name, gender, and salary.
