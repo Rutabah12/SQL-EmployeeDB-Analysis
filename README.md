@@ -1,4 +1,6 @@
-# Employee SQL database Analysis
+ # Employee SQL database Analysis
+ ![sql.png](sql.png)
+
 This dataset consists of employee data of the corporation from the 1980s and 1990s. 
 
 The six csv I imported include: 
