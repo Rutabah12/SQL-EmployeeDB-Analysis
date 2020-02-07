@@ -14,7 +14,7 @@ The six csv I imported include:
 
 I then imported each of these files into their own Postgres SQL database and queried the database to answer questions. 
 
-# Data Analysis
+## Data Analysis
 Listed the following details of each employee: employee number, last name, first name, gender, and salary.
 
 Listed employees who were hired in 1986.
