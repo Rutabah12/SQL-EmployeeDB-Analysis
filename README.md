@@ -2,7 +2,7 @@
  ![sql.png](sql.png)
 
 ## Background
-This dataset consists of employee data of the corporation from the 1980s and 1990s. 
+This dataset consists of employee data of a corporation from the 1980s and 1990s. 
 
 The six csv I imported include: 
 -Employee Table
@@ -12,7 +12,7 @@ The six csv I imported include:
 -Salaries
 -Department Employees 
 
-I then imported each of these files into their own SQL databse and queried to answer questions. 
+I then imported each of these files into their own Postgres SQL database and queried the database to answer questions. 
 
 # Data Analysis
 Listed the following details of each employee: employee number, last name, first name, gender, and salary.
